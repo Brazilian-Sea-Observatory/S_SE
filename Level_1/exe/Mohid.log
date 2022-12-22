@@ -1,0 +1,2271 @@
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Domain            5
+ Domain            6
+ Domain            7
+ Domain            8
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Domain            5
+ Domain            6
+ Domain            7
+ Domain            8
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Domain            5
+ Domain            6
+ Domain            7
+ Domain            8
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Domain            5
+ Domain            6
+ Domain            7
+ Domain            8
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Domain            5
+ Domain            6
+ Domain            7
+ Domain            8
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Domain            5
+ Domain            6
+ Domain            7
+ Domain            8
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Domain            5
+ Domain            6
+ Domain            7
+ Domain            8
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing Mohid Water on projetobaias
+ Please Wait...
+  :            9
+ With decomposition
+ Domain            1
+ Domain            2
+ Domain            3
+ Domain            4
+ Domain            5
+ Domain            6
+ Domain            7
+ Domain            8
+ Construct model MPI ID =           2
+ -------------------------- MODEL -------------------------
+ 
+ Constructing      : ..
+ ID                :            1
+ Construct model MPI ID =           1
+ -------------------------- MODEL -------------------------
+ 
+ Constructing      : ..
+ ID                :            1
+ Construct model MPI ID =           3
+ -------------------------- MODEL -------------------------
+ 
+ Constructing      : ..
+ ID                :            1
+ Construct model MPI ID =           0
+ -------------------------- MODEL -------------------------
+ 
+ Constructing      : ..
+ MPI_ID =           2
+ ID                :            1
+ DataFile =../data/Model_2.dat
+ Construct model MPI ID =           6
+ -------------------------- MODEL -------------------------
+ 
+ Constructing      : ..
+ Construct model MPI ID =           4
+ ID                :            1
+ -------------------------- MODEL -------------------------
+ 
+ Constructing      : ..
+ ID                :            1
+ Construct model MPI ID =           5
+ -------------------------- MODEL -------------------------
+ 
+ Constructing      : ..
+ MPI_ID =           1
+ ID                :            1
+ DataFile =../data/Model_2.dat
+ Construct model MPI ID =           7
+ -------------------------- MODEL -------------------------
+ MPI_ID =           3
+ 
+ DataFile =../data/Model_2.dat
+ Constructing      : ..
+ ID                :            1
+ MPI_ID =           0
+ MPI_ID =           6
+ DataFile =../data/Model_2.dat
+ DataFile =../data/Model_2.dat
+ MPI_ID =           4
+ DataFile =../data/Model_2.dat
+ MPI_ID =           5
+ DataFile =../data/Model_2.dat
+ MPI_ID =           7
+ DataFile =../data/Model_2.dat
+ halo_points           3
+ Limits            7         410         359
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ Interface            4           3           4
+ Interface            5           4           5
+ Interface            6           5           6
+ Interface            7           6           7
+ mpi_send           7
+ halo_points           3
+ Limits            6         358         308
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ Interface            4           3           4
+ Interface            5           4           5
+ Interface            6           5           6
+ Interface            7           6           7
+ mpi_send           6
+ halo_points           3
+ Limits            4         256         206
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ Interface            4           3           4
+ Interface            5           4           5
+ Interface            6           5           6
+ Interface            7           6           7
+ mpi_send           4
+ halo_points           3
+ Limits            2         153         103
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ Interface            4           3           4
+ Interface            5           4           5
+ Interface            6           5           6
+ Interface            7           6           7
+ mpi_send           2
+ halo_points           3
+ Limits            1         102          52
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ Interface            4           3           4
+ Interface            5           4           5
+ Interface            6           5           6
+ Interface            7           6           7
+ mpi_send           1
+ halo_points           3
+ Limits            3         205         154
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ Interface            4           3           4
+ Interface            5           4           5
+ Interface            6           5           6
+ Interface            7           6           7
+ mpi_send           3
+ halo_points           3
+ Limits            5         307         257
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ Interface            4           3           4
+ Interface            5           4           5
+ Interface            6           5           6
+ Interface            7           6           7
+ mpi_send           5
+ halo_points           3
+ Limits            0          51           1
+ Interface            1           0           1
+ Interface            2           1           2
+ Interface            3           2           3
+ Interface            4           3           4
+ Interface            5           4           5
+ Interface            6           5           6
+ Interface            7           6           7
+ mpi_receive from to            1           0
+ mpi_receive from to            2           0
+ mpi_receive from to            3           0
+ mpi_receive from to            4           0
+ mpi_receive from to            5           0
+ mpi_receive from to            6           0
+ mpi_receive from to            7           0
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ 
+WARNING; KEYWORD; Verify_Numerical_Options - Hydrodynamic - WRN21..
+ 
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Start construct assimilation, property number :            1
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           3
+ Start construct assimilation, property number :            4
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ End construct assimilation, property number :           3
+ Start construct assimilation, property number :            4
+ End construct assimilation, property number :           4
+ Start construct assimilation, property number :            5
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ End construct assimilation, property number :           1
+ Start construct assimilation, property number :            2
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           3
+ Start construct assimilation, property number :            4
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           5
+ Start construct assimilation, property number :            6
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           3
+ Start construct assimilation, property number :            4
+ End construct assimilation, property number :           4
+ Start construct assimilation, property number :            5
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           3
+ Start construct assimilation, property number :            4
+ End construct assimilation, property number :           4
+ Start construct assimilation, property number :            5
+ End construct assimilation, property number :           5
+ Start construct assimilation, property number :            6
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           4
+ Start construct assimilation, property number :            5
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ End construct assimilation, property number :           2
+ Start construct assimilation, property number :            3
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           3
+ Start construct assimilation, property number :            4
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           3
+ Start construct assimilation, property number :            4
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           5
+ Start construct assimilation, property number :            6
+ End construct assimilation, property number :           3
+ Start construct assimilation, property number :            4
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           4
+ Start construct assimilation, property number :            5
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           5
+ Start construct assimilation, property number :            6
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           6
+ Start construct assimilation, property number :            7
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           4
+ Start construct assimilation, property number :            5
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           5
+ Start construct assimilation, property number :            6
+ End construct assimilation, property number :           6
+ Start construct assimilation, property number :            7
+ End construct assimilation, property number :           4
+ Start construct assimilation, property number :            5
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           4
+ Start construct assimilation, property number :            5
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           6
+ Start construct assimilation, property number :            7
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           6
+ Start construct assimilation, property number :            7
+ End construct assimilation, property number :           5
+ Start construct assimilation, property number :            6
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           7
+ Start construct assimilation, property number :            8
+ End construct assimilation, property number :           5
+ Start construct assimilation, property number :            6
+ End construct assimilation, property number :           5
+ Start construct assimilation, property number :            6
+ End construct assimilation, property number :           6
+ Start construct assimilation, property number :            7
+ End construct assimilation, property number :           7
+ Start construct assimilation, property number :            8
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           7
+ Start construct assimilation, property number :            8
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           7
+ Start construct assimilation, property number :            8
+ End construct assimilation, property number :           6
+ Start construct assimilation, property number :            7
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           6
+ Start construct assimilation, property number :            7
+ End construct assimilation, property number :           8
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    2.31601081407137     
+ In Grid Cell[i,j] :            6          54
+ 
+ Cell layers out of the model domain for the output window number           1
+ All model layers will be assumed for the window output
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            2
+ 
+ Property            : salinity
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  F
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Property            : temperature
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  T
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ End construct assimilation, property number :           6
+ Start construct assimilation, property number :            7
+ End construct assimilation, property number :           7
+ Start construct assimilation, property number :            8
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           8
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    5.36135696122180     
+ In Grid Cell[i,j] :            3          57
+ 
+ Cell layers out of the model domain for the output window number           1
+ All model layers will be assumed for the window output
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            2
+ 
+ Property            : salinity
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  F
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Property            : temperature
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  T
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           8
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    5.87138126294481     
+ In Grid Cell[i,j] :            9          57
+ 
+ Cell layers out of the model domain for the output window number           1
+ All model layers will be assumed for the window output
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            2
+ 
+ Property            : salinity
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  F
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Property            : temperature
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  T
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           8
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    6.09277644052910     
+ In Grid Cell[i,j] :           29          58
+ 
+ End construct assimilation, property number :           7
+ Start construct assimilation, property number :            8
+ Cell layers out of the model domain for the output window number           1
+ All model layers will be assumed for the window output
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            2
+ 
+ Property            : salinity
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  F
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Property            : temperature
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  T
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           7
+ Start construct assimilation, property number :            8
+ End construct assimilation, property number :           7
+ Start construct assimilation, property number :            8
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           8
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    6.51515222172931     
+ In Grid Cell[i,j] :            1          54
+ 
+ Cell layers out of the model domain for the output window number           1
+ All model layers will be assumed for the window output
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            2
+ 
+ Property            : salinity
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  F
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Property            : temperature
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  T
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           8
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    6.51515222172931     
+ In Grid Cell[i,j] :            1           3
+ 
+ Cell layers out of the model domain for the output window number           1
+ All model layers will be assumed for the window output
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            2
+ 
+ Property            : salinity
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  F
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Property            : temperature
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  T
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           8
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    6.45964366728724     
+ In Grid Cell[i,j] :           59          54
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Cell layers out of the model domain for the output window number           1
+ All model layers will be assumed for the window output
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            2
+ 
+ Property            : salinity
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  F
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Property            : temperature
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  T
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ End construct assimilation, property number :           8
+ ---------------------- HYDRODYNAMICS ---------------------
+ 
+ Courant Number is :    6.34493699359879     
+ In Grid Cell[i,j] :           65          46
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Cell layers out of the model domain for the output window number           1
+ All model layers will be assumed for the window output
+ --------------------- WATERPROPERTIES --------------------
+ 
+ Num of Properties :            2
+ 
+ Property            : salinity
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  F
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ Property            : temperature
+ ---Water Quality    :  F
+ ---CEQUALW2         :  F
+ ---Life             :  F
+ ---MacroAlgae       :  F
+ ---Seagrasses       :  F
+ ---WWTPQ            :  F
+ ---Bivalve          :  F
+ ---Partitioning     :  F
+ ---Free Vert. Mov   :  F
+ ---Adv. Diff.       :  T
+ ---Discharges       :  F
+ ---Surface Fluxes   :  T
+ ---Bottom Fluxes    :  F
+ ---First Order Decay:  F
+ ---Decay Rate Property:  F
+ ---Assimilation     :            1
+ 
+ 
+ <Compilation Options Warning>
+ This executable was not compiled with the Lagrangian module.
+ <Compilation Options Warning>
+ 
+ ---------------- INTERFACE SEDIMENT-WATER -----------------
+ 
+ Num of Properties :            0
+ 
+ 
+ Atmosphere DT Prediction Method:            1
+ 
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ Border limits  -49.9892153340000       -32.9892156060001     
+  -29.6625593360000       -18.3292261840000     
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ -------------------------- MOHID -------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ Running MOHID, please wait...
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ILS, IUS, JLS, JUS           0         275           0         411
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          122s
+ Remaining (aprox.)     :        11631s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.1360
+ Seconds per Iteration  :         8.1549s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:11:47
+ End of the run         : 2022:12:22:14:25:39
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          122s
+ Remaining (aprox.)     :        11646s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.1362
+ Seconds per Iteration  :         8.1656s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:11:48
+ End of the run         : 2022:12:22:14:25:54
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          122s
+ Remaining (aprox.)     :        11656s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.1363
+ Seconds per Iteration  :         8.1746s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:11:48
+ End of the run         : 2022:12:22:14:26: 4
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          122s
+ Remaining (aprox.)     :        11670s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.1365
+ Seconds per Iteration  :         8.1836s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:11:48
+ End of the run         : 2022:12:22:14:26:18
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          122s
+ Remaining (aprox.)     :        11679s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.1366
+ Seconds per Iteration  :         8.1888s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:11:48
+ End of the run         : 2022:12:22:14:26:27
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          122s
+ Remaining (aprox.)     :        11681s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.1366
+ Seconds per Iteration  :         8.1916s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:11:48
+ End of the run         : 2022:12:22:14:26:30
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          122s
+ Remaining (aprox.)     :        11684s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.1367
+ Seconds per Iteration  :         8.1952s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:11:48
+ End of the run         : 2022:12:22:14:26:32
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          122s
+ Remaining (aprox.)     :        11681s
+ Completed (%)          :         1.0417
+ Coeficient CPU / Model :         0.1366
+ Seconds per Iteration  :         8.1921s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:11:48
+ End of the run         : 2022:12:22:14:26:29
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          243s
+ Remaining (aprox.)     :        11422s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.1350
+ Seconds per Iteration  :         8.0394s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:13:48
+ End of the run         : 2022:12:22:14:24:10
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          243s
+ Remaining (aprox.)     :        11429s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.1351
+ Seconds per Iteration  :         8.0393s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:13:48
+ End of the run         : 2022:12:22:14:24:18
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          243s
+ Remaining (aprox.)     :        11434s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.1352
+ Seconds per Iteration  :         8.0399s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:13:48
+ End of the run         : 2022:12:22:14:24:23
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          243s
+ Remaining (aprox.)     :        11441s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.1352
+ Seconds per Iteration  :         8.0393s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:13:48
+ End of the run         : 2022:12:22:14:24:30
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          243s
+ Remaining (aprox.)     :        11446s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.1353
+ Seconds per Iteration  :         8.0398s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:13:49
+ End of the run         : 2022:12:22:14:24:35
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          243s
+ Remaining (aprox.)     :        11447s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.1353
+ Seconds per Iteration  :         8.0394s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:13:49
+ End of the run         : 2022:12:22:14:24:36
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          243s
+ Remaining (aprox.)     :        11448s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.1353
+ Seconds per Iteration  :         8.0399s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:13:49
+ End of the run         : 2022:12:22:14:24:37
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          243s
+ Remaining (aprox.)     :        11447s
+ Completed (%)          :         2.0833
+ Coeficient CPU / Model :         0.1353
+ Seconds per Iteration  :         8.0399s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:13:49
+ End of the run         : 2022:12:22:14:24:36
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          363s
+ Remaining (aprox.)     :        11281s
+ Completed (%)          :         3.1250
+ Coeficient CPU / Model :         0.1348
+ Seconds per Iteration  :         8.0600s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:15:49
+ End of the run         : 2022:12:22:14:23:51
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          364s
+ Remaining (aprox.)     :        11285s
+ Completed (%)          :         3.1250
+ Coeficient CPU / Model :         0.1348
+ Seconds per Iteration  :         8.0579s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:15:49
+ End of the run         : 2022:12:22:14:23:55
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          364s
+ Remaining (aprox.)     :        11288s
+ Completed (%)          :         3.1250
+ Coeficient CPU / Model :         0.1349
+ Seconds per Iteration  :         8.0567s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:15:49
+ End of the run         : 2022:12:22:14:23:58
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          364s
+ Remaining (aprox.)     :        11293s
+ Completed (%)          :         3.1250
+ Coeficient CPU / Model :         0.1349
+ Seconds per Iteration  :         8.0573s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:15:49
+ End of the run         : 2022:12:22:14:24: 3
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          364s
+ Remaining (aprox.)     :        11296s
+ Completed (%)          :         3.1250
+ Coeficient CPU / Model :         0.1350
+ Seconds per Iteration  :         8.0575s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:15:49
+ End of the run         : 2022:12:22:14:24: 6
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          364s
+ Remaining (aprox.)     :        11296s
+ Completed (%)          :         3.1250
+ Coeficient CPU / Model :         0.1350
+ Seconds per Iteration  :         8.0573s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:15:49
+ End of the run         : 2022:12:22:14:24: 6
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          364s
+ Remaining (aprox.)     :        11297s
+ Completed (%)          :         3.1250
+ Coeficient CPU / Model :         0.1350
+ Seconds per Iteration  :         8.0573s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:15:49
+ End of the run         : 2022:12:22:14:24: 7
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 0:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          364s
+ Remaining (aprox.)     :        11296s
+ Completed (%)          :         3.1250
+ Coeficient CPU / Model :         0.1350
+ Seconds per Iteration  :         8.0573s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:15:49
+ End of the run         : 2022:12:22:14:24: 6
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1: 0: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          489s
+ Remaining (aprox.)     :        11255s
+ Completed (%)          :         4.1667
+ Coeficient CPU / Model :         0.1359
+ Seconds per Iteration  :         8.3627s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:17:54
+ End of the run         : 2022:12:22:14:25:30
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1: 0: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          489s
+ Remaining (aprox.)     :        11265s
+ Completed (%)          :         4.1667
+ Coeficient CPU / Model :         0.1361
+ Seconds per Iteration  :         8.3835s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:17:55
+ End of the run         : 2022:12:22:14:25:40
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1: 0: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          490s
+ Remaining (aprox.)     :        11284s
+ Completed (%)          :         4.1667
+ Coeficient CPU / Model :         0.1363
+ Seconds per Iteration  :         8.4320s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:17:56
+ End of the run         : 2022:12:22:14:26: 0
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1: 0: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          491s
+ Remaining (aprox.)     :        11298s
+ Completed (%)          :         4.1667
+ Coeficient CPU / Model :         0.1365
+ Seconds per Iteration  :         8.4623s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:17:56
+ End of the run         : 2022:12:22:14:26:15
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1: 0: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          491s
+ Remaining (aprox.)     :        11309s
+ Completed (%)          :         4.1667
+ Coeficient CPU / Model :         0.1366
+ Seconds per Iteration  :         8.4839s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:17:57
+ End of the run         : 2022:12:22:14:26:26
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1: 0: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          491s
+ Remaining (aprox.)     :        11309s
+ Completed (%)          :         4.1667
+ Coeficient CPU / Model :         0.1366
+ Seconds per Iteration  :         8.4865s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:17:57
+ End of the run         : 2022:12:22:14:26:26
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1: 0: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          491s
+ Remaining (aprox.)     :        11310s
+ Completed (%)          :         4.1667
+ Coeficient CPU / Model :         0.1366
+ Seconds per Iteration  :         8.4913s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:17:57
+ End of the run         : 2022:12:22:14:26:28
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1: 0: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          491s
+ Remaining (aprox.)     :        11311s
+ Completed (%)          :         4.1667
+ Coeficient CPU / Model :         0.1366
+ Seconds per Iteration  :         8.4913s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:17:57
+ End of the run         : 2022:12:22:14:26:28
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          612s
+ Remaining (aprox.)     :        11145s
+ Completed (%)          :         5.2083
+ Coeficient CPU / Model :         0.1361
+ Seconds per Iteration  :         8.2001s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:19:57
+ End of the run         : 2022:12:22:14:25:42
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          612s
+ Remaining (aprox.)     :        11147s
+ Completed (%)          :         5.2083
+ Coeficient CPU / Model :         0.1361
+ Seconds per Iteration  :         8.1779s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:19:58
+ End of the run         : 2022:12:22:14:25:45
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          612s
+ Remaining (aprox.)     :        11149s
+ Completed (%)          :         5.2083
+ Coeficient CPU / Model :         0.1361
+ Seconds per Iteration  :         8.1327s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:19:58
+ End of the run         : 2022:12:22:14:25:47
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          612s
+ Remaining (aprox.)     :        11152s
+ Completed (%)          :         5.2083
+ Coeficient CPU / Model :         0.1362
+ Seconds per Iteration  :         8.1018s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:19:58
+ End of the run         : 2022:12:22:14:25:50
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          612s
+ Remaining (aprox.)     :        11154s
+ Completed (%)          :         5.2083
+ Coeficient CPU / Model :         0.1362
+ Seconds per Iteration  :         8.0729s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:19:58
+ End of the run         : 2022:12:22:14:25:52
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          612s
+ Remaining (aprox.)     :        11154s
+ Completed (%)          :         5.2083
+ Coeficient CPU / Model :         0.1362
+ Seconds per Iteration  :         8.0734s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:19:58
+ End of the run         : 2022:12:22:14:25:53
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          612s
+ Remaining (aprox.)     :        11154s
+ Completed (%)          :         5.2083
+ Coeficient CPU / Model :         0.1362
+ Seconds per Iteration  :         8.0803s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:19:58
+ End of the run         : 2022:12:22:14:25:53
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:15: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          612s
+ Remaining (aprox.)     :        11154s
+ Completed (%)          :         5.2083
+ Coeficient CPU / Model :         0.1362
+ Seconds per Iteration  :         8.0777s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:19:58
+ End of the run         : 2022:12:22:14:25:52
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          732s
+ Remaining (aprox.)     :        10989s
+ Completed (%)          :         6.2500
+ Coeficient CPU / Model :         0.1357
+ Seconds per Iteration  :         8.0167s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:21:58
+ End of the run         : 2022:12:22:14:25: 7
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          732s
+ Remaining (aprox.)     :        10990s
+ Completed (%)          :         6.2500
+ Coeficient CPU / Model :         0.1357
+ Seconds per Iteration  :         8.0135s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:21:58
+ End of the run         : 2022:12:22:14:25: 8
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          732s
+ Remaining (aprox.)     :        10992s
+ Completed (%)          :         6.2500
+ Coeficient CPU / Model :         0.1357
+ Seconds per Iteration  :         8.0147s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:21:58
+ End of the run         : 2022:12:22:14:25:10
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          732s
+ Remaining (aprox.)     :        10994s
+ Completed (%)          :         6.2500
+ Coeficient CPU / Model :         0.1357
+ Seconds per Iteration  :         8.0153s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:21:58
+ End of the run         : 2022:12:22:14:25:13
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          733s
+ Remaining (aprox.)     :        10996s
+ Completed (%)          :         6.2500
+ Coeficient CPU / Model :         0.1358
+ Seconds per Iteration  :         8.0147s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:21:58
+ End of the run         : 2022:12:22:14:25:14
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          733s
+ Remaining (aprox.)     :        10996s
+ Completed (%)          :         6.2500
+ Coeficient CPU / Model :         0.1358
+ Seconds per Iteration  :         8.0148s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:21:58
+ End of the run         : 2022:12:22:14:25:15
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          733s
+ Remaining (aprox.)     :        10996s
+ Completed (%)          :         6.2500
+ Coeficient CPU / Model :         0.1358
+ Seconds per Iteration  :         8.0147s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:21:58
+ End of the run         : 2022:12:22:14:25:15
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:30: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          733s
+ Remaining (aprox.)     :        10996s
+ Completed (%)          :         6.2500
+ Coeficient CPU / Model :         0.1358
+ Seconds per Iteration  :         8.0152s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:21:58
+ End of the run         : 2022:12:22:14:25:15
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          852s
+ Remaining (aprox.)     :        10841s
+ Completed (%)          :         7.2917
+ Coeficient CPU / Model :         0.1353
+ Seconds per Iteration  :         8.0034s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:23:58
+ End of the run         : 2022:12:22:14:24:39
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          852s
+ Remaining (aprox.)     :        10842s
+ Completed (%)          :         7.2917
+ Coeficient CPU / Model :         0.1354
+ Seconds per Iteration  :         8.0047s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:23:58
+ End of the run         : 2022:12:22:14:24:40
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          852s
+ Remaining (aprox.)     :        10844s
+ Completed (%)          :         7.2917
+ Coeficient CPU / Model :         0.1354
+ Seconds per Iteration  :         8.0052s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:23:58
+ End of the run         : 2022:12:22:14:24:42
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          853s
+ Remaining (aprox.)     :        10845s
+ Completed (%)          :         7.2917
+ Coeficient CPU / Model :         0.1354
+ Seconds per Iteration  :         8.0041s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:23:58
+ End of the run         : 2022:12:22:14:24:44
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          853s
+ Remaining (aprox.)     :        10847s
+ Completed (%)          :         7.2917
+ Coeficient CPU / Model :         0.1354
+ Seconds per Iteration  :         8.0047s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:23:58
+ End of the run         : 2022:12:22:14:24:45
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          853s
+ Remaining (aprox.)     :        10847s
+ Completed (%)          :         7.2917
+ Coeficient CPU / Model :         0.1354
+ Seconds per Iteration  :         8.0066s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:23:58
+ End of the run         : 2022:12:22:14:24:46
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          853s
+ Remaining (aprox.)     :        10848s
+ Completed (%)          :         7.2917
+ Coeficient CPU / Model :         0.1354
+ Seconds per Iteration  :         8.0067s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:23:58
+ End of the run         : 2022:12:22:14:24:47
+
+
+
+
+
+
+ -----Current Simulation Instant---------------------------
+ Time Instant           : 2022:12:14: 1:45: 0
+ 
+ -----CPU Time---------------------------------------------
+ Elapsed                :          853s
+ Remaining (aprox.)     :        10847s
+ Completed (%)          :         7.2917
+ Coeficient CPU / Model :         0.1354
+ Seconds per Iteration  :         8.0062s
+ -----System Time------------------------------------------
+ System time            : 2022:12:22:11:23:58
+ End of the run         : 2022:12:22:14:24:46
+
+
+
+
+
+
