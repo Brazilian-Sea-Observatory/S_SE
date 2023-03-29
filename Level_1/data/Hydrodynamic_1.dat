@@ -48,8 +48,8 @@ FLATHER_COLD_PERIOD       : 86400
 !Start / Continuous Computation
 CONTINUOUS                : 0
 !SLOWSTART                 : 86400.0
-INITIAL_ELEVATION         : 1
-INITIAL_ELEVATION_VALUE   : 0.8
+INITIAL_ELEVATION         : 0
+!INITIAL_ELEVATION_VALUE   : 0.8
 
 !Output Options
 TIME_SERIE                : 0

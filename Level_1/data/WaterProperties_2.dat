@@ -71,7 +71,7 @@ OUTPUT_HDF                   : 1
 OUTPUT_SURFACE_HDF           : 1
 <endproperty>
 
-<beginoutput>
+!<beginoutput>
 <<beginoutwindow>>
 OUTPUT_TIME_W             : 0 3600.
 KLB_KUB_W                 : 1 75
@@ -80,4 +80,4 @@ JLB_JUB_W                 : 117 260
 !ILB_IUB_W                 : 167 300
 !JLB_JUB_W                 : 178 382
 <<endoutwindow>>
-<endoutput>
+!<endoutput>
